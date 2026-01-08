@@ -20,21 +20,9 @@
     },
     {
       "atomType": "Circle",
-      "x": 0.5802027429934407,
-      "y": 0.337874659400545,
+      "x": 0.5843768634466309,
+      "y": 0.32697547683923706,
       "uniqueID": "id-7",
-      "ioValues": [
-        {
-          "name": "diameter",
-          "ioValue": 18
-        }
-      ]
-    },
-    {
-      "atomType": "Circle",
-      "x": 0.5819916517590936,
-      "y": 0.5831062670299728,
-      "uniqueID": "id-14",
       "ioValues": [
         {
           "name": "diameter",
@@ -44,9 +32,22 @@
       ]
     },
     {
+      "atomType": "Circle",
+      "x": 0.5813953488372093,
+      "y": 0.6158038147138964,
+      "uniqueID": "id-14",
+      "ioValues": [
+        {
+          "name": "diameter",
+          "ioValue": 18,
+          "currentEquation": "18"
+        }
+      ]
+    },
+    {
       "atomType": "Extrude",
-      "x": 0.6869409660107334,
-      "y": 0.38147138964577654,
+      "x": 0.6887298747763865,
+      "y": 0.39509536784741145,
       "uniqueID": "id-29",
       "ioValues": [
         {
