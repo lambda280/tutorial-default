@@ -26,8 +26,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 20,
-          "currentEquation": "20"
+          "ioValue": 20
         }
       ]
     },
@@ -39,8 +38,7 @@
       "ioValues": [
         {
           "name": "diameter",
-          "ioValue": 18,
-          "currentEquation": "18"
+          "ioValue": 18
         }
       ]
     },
